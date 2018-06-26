@@ -1,0 +1,25 @@
+background{
+    background-color: #FFEFF6;
+}
+#button_accueil_tab_hiragana{
+    border-radius: 12px;
+    height: 90px;
+    width: 200px;
+    background-color: #FFEFF6;
+    border :2px solid #FFCCDB;
+}
+#button_accueil_prononciation{
+    border-radius: 12px;
+    height: 90px; 
+    width: 200px;
+    background-color: #FFEFF6;
+    border :2px solid #FFCCDB;
+    
+}
+#button_accueil_test{
+    border-radius: 12px;
+    height: 90px; 
+    width: 200px;
+    background-color: #FFEFF6;
+    border :2px solid #FFCCDB;
+}

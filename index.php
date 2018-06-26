@@ -7,24 +7,23 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Menu d'accueil</title>
+        <link href="css_torii.css" rel="stylesheet" type="text/css"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
+        <span>
+            <img src="images/TORII.png"  style="display: block; margin: auto; max-width: 100%; height: auto;"/>
+            <table style="margin: auto;">
+                <tr>
+                    <td style="padding:10px;"><a href="code/tableau_hiragana.php"><button id="button_accueil_tab_hiragana">Tableau Hiragana</button></a></td>
+                    <td style="padding:10px;"><a href="code/Prononciation.php"><button id="button_accueil_prononciation">Prononciation</button></a></td>
+                    <td style="padding:10px;"><a href=""><button id="button_accueil_test">Test</button></a></td>
+                </tr>
+            </table>
+        </span>
         <?php
-        /*
-         *  Le 'a' se prononce comme le 'a' en français.
-         *  Le 'i' se prononce comme le 'i' en français.
-         *  Le 'u' se prononce comme le 'ou' en frnaçais.
-         *  Le 'e' se prononce comme le 'é' en français.
-         *  Le 'o' se prononce comme le 'o' en français.
-         *  Le 's' se prononce comme le 's' du mot serpent.
-         *  Le 'sh' se prononce comme le 'ch' en français.
-         *  Le 'ch' se prononce comme le 'tch' en français.
-         *  Le 'h' n'est pas muet en japonais, il se prononce comme en anglais avec une légère expiration.
-         *  Le 'r' est proche du 'l' en français.
-         *  Le 'w' se prononce comme le 'w' en anglais : 'wa'.
-         *  Le 'j' se prononce 'dj' comme dans la marque de voiture Jepp.
-         */
+       
         ?>
     </body>
 </html>
