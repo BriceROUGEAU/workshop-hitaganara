@@ -9,6 +9,7 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <link href="css_tableau_hiragana.css" rel="stylesheet" type="text/css"/>
         <title>Tableau Hiragana</title>
+        <link rel="icon" type="image/png" href="../images/TORII.png" />
     </head>
     <body>
         <table style="width: 100%; margin: auto;">
@@ -17,7 +18,7 @@ and open the template in the editor.
                 <td style="width: 100%;"><h1 style="text-align: center;margin-right: 18%;">Tableau Hiragana</h1></td>
             </tr>
         </table>
-        <table>
+        <table style=" margin: auto;">
             <tr>
                 <td class="tb_hiragana">-A</td>
                 <td class="tb_hiragana">-I</td>
@@ -27,7 +28,7 @@ and open the template in the editor.
                 <td class="tb_hiragana">N</td>
             </tr>
             <tr>
-                <td class="tb_hiragana"><img src="../images/A.png" alt=""/></td>
+                <td class="tb_hiragana"><a href="Fiche_hiragana_perso.php?id=1"><img src="../images/A.png" alt=""/></a></td>
                 <td class="tb_hiragana"><img src="../images/I.png" alt=""/></td>
                 <td class="tb_hiragana"><img src="../images/U.png" alt=""/></td>
                 <td class="tb_hiragana"><img src="../images/E.png" alt=""/></td>
@@ -61,10 +62,63 @@ and open the template in the editor.
                 <td class="tb_hiragana"><img src="../images/To.png" alt=""/></td>
                 <td class="tb_hiragana"></td>
                 <td class="tb_hiragana">T-</td>
-            </tr>            
+            </tr>
+            <tr>
+                <td class="tb_hiragana"><img src="../images/Na.png" alt=""/></td>
+                <td class="tb_hiragana"><img src="../images/Ni.png" alt=""/></td>
+                <td class="tb_hiragana"><img src="../images/Nu.png" alt=""/></td>
+                <td class="tb_hiragana"><img src="../images/Ne.png" alt=""/></td>
+                <td class="tb_hiragana"><img src="../images/No.png" alt=""/></td>
+                <td class="tb_hiragana"></td>
+                <td class="tb_hiragana">N-</td>
+            </tr>
+            <tr>
+                <td class="tb_hiragana"><img src="../images/Ha.png" alt=""/></td>
+                <td class="tb_hiragana"><img src="../images/Hi.png" alt=""/></td>
+                <td class="tb_hiragana"><img src="../images/Fu.png" alt=""/></td>
+                <td class="tb_hiragana"><img src="../images/He.png" alt=""/></td>
+                <td class="tb_hiragana"><img src="../images/Ho.png" alt=""/></td>
+                <td class="tb_hiragana"></td>
+                <td class="tb_hiragana">H-</td>
+            </tr>
+            <tr>
+                <td class="tb_hiragana"><img src="../images/Ma.png" alt=""/></td>
+                <td class="tb_hiragana"><img src="../images/Mi.png" alt=""/></td>
+                <td class="tb_hiragana"><img src="../images/Mu.png" alt=""/></td>
+                <td class="tb_hiragana"><img src="../images/Me.png" alt=""/></td>
+                <td class="tb_hiragana"><img src="../images/Mo.png" alt=""/></td>
+                <td class="tb_hiragana"></td>
+                <td class="tb_hiragana">M-</td>
+            </tr>
+            <tr>
+                <td class="tb_hiragana"><img src="../images/Ya.png" alt=""/></td>
+                <td class="tb_hiragana"></td>
+                <td class="tb_hiragana"><img src="../images/Yu.png" alt=""/></td>
+                <td class="tb_hiragana"></td>
+                <td class="tb_hiragana"><img src="../images/Yo.png" alt=""/></td>
+                <td class="tb_hiragana"></td>
+                <td class="tb_hiragana">Y-</td>
+            </tr>
+            <tr>
+                <td class="tb_hiragana"><img src="../images/Ra.png" alt=""/></td>
+                <td class="tb_hiragana"><img src="../images/Ri.png" alt=""/></td>
+                <td class="tb_hiragana"><img src="../images/Ru.png" alt=""/></td>
+                <td class="tb_hiragana"><img src="../images/Re.png" alt=""/></td>
+                <td class="tb_hiragana"><img src="../images/Ro.png" alt=""/></td>
+                <td class="tb_hiragana"></td>
+                <td class="tb_hiragana">R-</td>
+            </tr>
+            <tr>
+                <td class="tb_hiragana"><img src="../images/Wa.png" alt=""/></td>
+                <td class="tb_hiragana"><img src="../images/Wi.png" alt=""/></td>
+                <td class="tb_hiragana"></td>
+                <td class="tb_hiragana"><img src="../images/We.png" alt=""/></td>
+                <td class="tb_hiragana"><img src="../images/Wo.png" alt=""/></td>
+                <td class="tb_hiragana"></td>
+                <td class="tb_hiragana">W-</td>
+            </tr>
         </table>
         <?php
-        // put your code here
         ?>
     </body>
 </html>

@@ -10,6 +10,7 @@ and open the template in the editor.
         <title>Menu d'accueil</title>
         <link href="css_torii.css" rel="stylesheet" type="text/css"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image/png" href="images/TORII.png" />
     </head>
     <body>
         <span>

@@ -9,12 +9,13 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title>Prononciation des Hiragana</title>
         <link href="css_prononciation.css" rel="stylesheet" type="text/css"/>
+        <link rel="icon" type="image/png" href="../images/TORII.png" />
     </head>
     <body>
         <table style="width: 100%; margin: auto;">
             <tr>
                 <td><a href="../index.php"><img src="../images/TORII_retour.png" alt=""/></a></td>
-                <td style="width: 100%;"><h1 style="text-align: center;margin-right: 18%;">Prononciation</h1></td>
+                <td style="width: 100%;"><h1 style="text-align: center; margin-right: 18%;">Prononciation</h1></td>
             </tr>
         </table>
         <br><br>
